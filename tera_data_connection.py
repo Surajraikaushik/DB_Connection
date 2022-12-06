@@ -1,3 +1,5 @@
+import datetime
+
 import teradata
 import time
 import pandas as pd
